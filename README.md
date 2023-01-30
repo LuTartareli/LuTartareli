@@ -6,7 +6,7 @@
 
 <div>
 
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuTartareli&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuTartareli&layout=compact&theme=tokyonight)](https://github.com/LuTartareli/github-readme-stats)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lutartareli&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutartareli&layout=compact&theme=tokyonight)](https://github.com/gnsf01/github-readme-stats)
  
 </div>
 
